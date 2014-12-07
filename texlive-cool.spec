@@ -6,7 +6,7 @@
 # catalog-version 1.35
 Name:		texlive-cool
 Version:	1.35
-Release:	8
+Release:	9
 Summary:	COntent-Oriented LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cool
