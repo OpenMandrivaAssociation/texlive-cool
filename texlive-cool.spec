@@ -3,7 +3,7 @@ Version:	67013
 Release:	1
 Summary:	COntent-Oriented LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cool
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/cool
 License:	LGPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cool.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cool.doc.r%{version}.tar.xz
